@@ -1,2 +1,2 @@
 # studentinfo
-student data form
+student data demo form
